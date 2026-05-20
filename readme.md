@@ -48,5 +48,5 @@ Aplikasi ini dibangun menggunakan arsitektur **MVC (Model-View-Controller)** unt
 
 ---
 
-## 4. Link Repostory Github
+## Link Repostory Github
 https://github.com/aditya-project-r/mvc_mahasiswa_kelompok1
