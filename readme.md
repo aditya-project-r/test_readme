@@ -44,3 +44,6 @@ Aplikasi ini dibangun menggunakan arsitektur **MVC (Model-View-Controller)** unt
    $dbname = "db_mahasiswa";
    $username = "root";
    $password = ""; // sesuaikan dengan password database Anda
+
+### 4. Link Repostory Github
+https://github.com/aditya-project-r/mvc_mahasiswa_kelompok1
