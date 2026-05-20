@@ -35,6 +35,7 @@ Aplikasi ini dibangun menggunakan arsitektur **MVC (Model-View-Controller)** unt
 2. Buat database baru, misalnya dengan nama `db_mahasiswa`.
 3. Pilih menu **Import**, lalu pilih file database proyek ini (biasanya berformat `.sql`).
 4. Klik **Go** / **Kirim** dan tunggu hingga proses import selesai.
+5. Buka Dengan Halamannya Dengan Mengetikan Di Chrome http://localhost/mvc_mahasiswa/index
 
 ### 3. Pengaturan Konfigurasi Connection
 1. Buka folder proyek Anda, lalu cari file konfigurasi database (misalnya `config.php` atau di dalam folder `app/config/`).
